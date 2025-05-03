@@ -346,7 +346,7 @@ async def guide_handler(client: Client, message: Message):
       "/start : To Check Bot Is Alive Or Not\n"
       "/drm : To Upload .txt File\n"
       "/stop : To Stop The Current Operation\n"
-      "/adduser : To Add New User ex: /adduser 7645123456 23/08/2025\n"
+      "/adduser : To Add New User ex: /adduser 6938716674 23/08/2025\n"
       "/removeuser : To Remove User\n"
       "/add_channel : To add New Channel\n"
       "/remove_channel : To remove all the channels\n"
